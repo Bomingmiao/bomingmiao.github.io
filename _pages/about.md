@@ -10,8 +10,8 @@ I am now a master student of School of Statistics, Beijing Normal University.
 
 Education
 ====
-MS, 2023-2025, School of Statistics, Beijing Normal University
-BS, 2019-2023, Department of Mathematics, Northeastern University
+- M.S. in Statistics, 2023-2025, School of Statistics, Beijing Normal University
+- B.S. in Mathematics, 2019-2023, Department of Mathematics, Northeastern University
 
 Research Interst
 ======
