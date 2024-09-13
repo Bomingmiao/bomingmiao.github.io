@@ -21,11 +21,11 @@ In the long term, I aspire to contribute to the development of theory-guided lea
 
 News
 ================
-- 2024.09 We propose a novel framework of patch attack based on diffusion models, you can see it [here](https://arxiv.org/abs/2409.07002). The code will be available soon.
-- 2024.08 I am pleased to collaborate with [Andi Zhang](https://andi.ac/) at the University of Cambridge.
-- 2023.10 I will become a research assistant in the Department of Automation, Tsinghua University.
-- 2023.06 I successfully defended my thesis and will graduate from Northeastern University. My thesis was awarded distinction.
-- 2022.09 I have been recommended for admission to the School of Statistics at Beijing Normal University for graduate studies.
-- 2022.08 I have completed my summer exchange program at the Department of Computer Science, North Carolina State University. See the [poster](../files/Poster.pdf) and the [project report](../files/ProjectReport.pdf) here.
-- 2022.05 I was selected to participate in the 2022 Summer Exchange Program at North Carolina State University.
-- 2021.12 I won the first prize in the Mathematics Competition of Chinese College Students.
+- 09/2024: We propose a novel framework of patch attack based on diffusion models, you can see the article [here](https://arxiv.org/abs/2409.07002). The code will be available soon.
+- 08/2024: I am pleased to join the [Deep Bit Lab](https://mypage.cuhk.edu.cn/academics/lizhen/) at [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and collaborate with [Andi Zhang](https://andi.ac/) at [University of Cambridge](https://www.cam.ac.uk/).
+- 10/2023: I will begin as a research assistant in Department of Automation, Tsinghua University.
+- 06/2023: I successfully defended my thesis and will graduate from Northeastern University. My thesis was awarded distinction.
+- 09/2022: I have been recommended for admission to the School of Statistics at Beijing Normal University for graduate studies.
+- 08/2022: I have completed my summer exchange program at the Department of Computer Science, North Carolina State University. See the [poster](../files/Poster.pdf) and the [project report](../files/ProjectReport.pdf) here.
+- 05/2022: I was selected to participate in the 2022 Summer Exchange Program at North Carolina State University.
+- 12/2021: I won the first prize in the Mathematics Competition of Chinese College Students.
