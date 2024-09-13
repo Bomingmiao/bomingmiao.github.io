@@ -22,7 +22,7 @@ I am deeply interested in developing reliable and trustworthy AI techniques, par
 In the long term, I aspire to contribute to the development of theory-guided learning. While I recognize that this is a complex endeavor that may not be achievable in the foreseeable future, I firmly believe that advancements in learning theory will unfold gradually, ultimately leading to models whose decisions are both explainable and rational.
 
 News
-=======
+====
 - 2024.09 We propose a novel framework of patch attack based on diffusion models, you can see it [here](https://arxiv.org/abs/2409.07002).
 - 2024.08 I am pleased to collaborate with [Andi Zhang](https://andi.ac/) at the University of Cambridge.
 - 2023.10 I will become a reserch assistant in the Department of Automation, Tsinghua University.
