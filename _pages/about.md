@@ -19,7 +19,7 @@ I am deeply interested in developing reliable and trustworthy AI techniques, and
 
 Recent Work
 ================
-<embed src="../files/framework.pdf" width="600" height="500" />
+<embed src="../files/framework.png" width="300" height="200" />
 
 News
 ================
