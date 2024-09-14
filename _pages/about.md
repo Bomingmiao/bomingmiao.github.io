@@ -19,7 +19,9 @@ I am deeply interested in developing reliable and trustworthy AI techniques, and
 
 Recent Work
 ================
-<embed src="../files/framework.png" width="300" height="200" />
+- **Patch Attack Based on Diffusion Models**  
+  We propose a novel framework of patch attack from semantic perspective. We can generate adversarial logos that can be easily recognized by human but are misclassified by the model. The article is available at [arXiv](https://arxiv.org/abs/2409.07002).
+<embed src="../files/framework.png" width="100" height="50" />
 
 News
 ================
