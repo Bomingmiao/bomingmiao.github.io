@@ -23,7 +23,7 @@ I am now a master student of School of Statistics, Beijing Normal University.
 Recent Work
 ================
 - **AdvLogo: Adversarial Patch Attack based on Diffusion Models [arXiv](https://arxiv.org/abs/2409.07002)**  
-  We propose a novel framework of patch attack from semantic perspective. We can utilize diffusion models to generate adversarial logos that can cause the model to fail in recognize objects.
+  We propose a novel framework of patch attack from semantic perspective. We can utilize diffusion models to generate adversarial logos that can cause the model to fail in recognizing objects.
 <embed src="../files/framework.png" width="100" height="50" />
 
 News
