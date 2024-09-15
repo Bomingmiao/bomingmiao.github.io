@@ -15,12 +15,15 @@ I am now a master student of School of Statistics, Beijing Normal University.
 
 ## Research Interst
 
-I am deeply interested in developing reliable and trustworthy AI techniques, and particularly
+- I am deeply interested in developing reliable and trustworthy AI techniques, and particularly adversarial mathine learning. 
+- I am also interested in generative models and LLMs, and their novel applications such as adversarial attack.
+- It is really cool to explore the explainability and interpretability , and derive the bound given their structures.
+- Statistical learning is also in the list and I would like to explore the probablistic generative models.
 
 Recent Work
 ================
-- **Patch Attack Based on Diffusion Models**  
-  We propose a novel framework of patch attack from semantic perspective. We can generate adversarial logos that can be easily recognized by human but are misclassified by the model. The article is available at [arXiv](https://arxiv.org/abs/2409.07002).
+- **AdvLogo: Adversarial Patch Attack based on Diffusion Models [arXiv](https://arxiv.org/abs/2409.07002)**  
+  We propose a novel framework of patch attack from semantic perspective. We can utilize diffusion models to generate adversarial logos that can cause the model to fail in recognize objects.
 <embed src="../files/framework.png" width="100" height="50" />
 
 News
