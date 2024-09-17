@@ -22,13 +22,13 @@ I am now a master student of School of Statistics, Beijing Normal University.
 
 Recent Work
 ================
-- **AdvLogo: Adversarial Patch Attack based on Diffusion Models [arXiv](https://arxiv.org/abs/2409.07002)**  
+- **AdvLogo: Adversarial Patch Attack based on Diffusion Models [arXiv](https://arxiv.org/abs/2409.07002) [Code](https://github.com/Bomingmiao/Advlogo)**  
   We propose a novel framework of patch attack from semantic perspective. We can utilize diffusion models to generate adversarial logos that can cause the model to fail in recognizing objects.
 <embed src="../files/framework.png" width="100" height="50" />
 
 News
 ================
-- 09/2024: We propose a novel framework of patch attack based on diffusion models, you can see the article [here](https://arxiv.org/abs/2409.07002). The code will be available soon.
+- 09/2024: We propose a novel framework of patch attack based on diffusion models, you can view the [article](https://arxiv.org/abs/2409.07002) and the [code](https://github.com/Bomingmiao/Advlogo) is released.
 - 08/2024: I am pleased to join the [Deep Bit Lab](https://mypage.cuhk.edu.cn/academics/lizhen/) at [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and collaborate with [Andi Zhang](https://andi.ac/) at [University of Cambridge](https://www.cam.ac.uk/).
 - 04/2024: We win the third prize in the Graduate Market Research Competition.
 - 10/2023: I will begin as a research assistant in Department of Automation, Tsinghua University.
