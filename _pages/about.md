@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Boming Miao! I am currently a master student of School of Statistics, Beijing Normal University.
+Hi, I am Boming Miao! I am currently a graduate student of School of Statistics, Beijing Normal University.
 ## Education
 - M.S. 2023-2025, School of Statistics, Beijing Normal University
 - B.S. 2019-2023, Department of Mathematics, Northeastern University
