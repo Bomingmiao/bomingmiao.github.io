@@ -32,7 +32,7 @@ Inspired by the coordinated cognitive processes of rapid-slow pathway interactio
 <embed src="../files/motivate.png" width="100" height="50" />
 News
 ================
-- 09/2024: We propos**e a novel framework of patch attack based on diffusion models, you can view the [article](https://arxiv.org/abs/2409.07002) and the [code](https://github.com/Bomingmiao/Advlogo) is released.
+- 09/2024: We propose a novel framework of patch attack based on diffusion models, you can view the [article](https://arxiv.org/abs/2409.07002) and the [code](https://github.com/Bomingmiao/Advlogo) is released.
 - 08/2024: I am pleased to join the [Deep Bit Lab](https://mypage.cuhk.edu.cn/academics/lizhen/) at [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and collaborate with [Andi Zhang](https://andi.ac/) at [University of Cambridge](https://www.cam.ac.uk/).
 - 04/2024: We win the third prize in the Graduate Market Research Competition.
 - 10/2023: I will begin as a research assistant in Department of Automation, Tsinghua University.
