@@ -34,7 +34,7 @@ News
 ================
 - 09/2024: We propose a novel framework of patch attack based on diffusion models, you can view the [article](https://arxiv.org/abs/2409.07002) and the [code](https://github.com/Bomingmiao/Advlogo) is released.
 - 08/2024: I am pleased to join the [Deep Bit Lab](https://mypage.cuhk.edu.cn/academics/lizhen/) at [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and collaborate with [Andi Zhang](https://andi.ac/) at [University of Cambridge](https://www.cam.ac.uk/).
-- 04/2024: We win the third prize in the Graduate Market Research Competition.
+- 04/2024: We win the second prize in the Graduate Market Research Competition.
 - 10/2023: I will begin as a research assistant in Department of Automation, Tsinghua University.
 - 06/2023: I successfully defended my thesis and will graduate from Northeastern University. My thesis is awarded distinction.
 - 03/2023: I am delighted to join Chinese Association for Applied Statistics as a student member.
