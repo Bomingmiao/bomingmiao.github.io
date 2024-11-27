@@ -23,16 +23,18 @@ Hi, I am Boming Miao! I am currently a graduate student of School of Statistics,
 - **OOD Detection (with [Andi Zhang](https://andi.ac/)):** investigating novel methods for calculating in-distribution and out-of-distribution probabilities based on generative models.
 
 ## Selected Papaers
+### Noise Diffusion for Enhancing Faithfulness in Text-to-Image Synthesis [arXiv](https://arxiv.org/abs/2411.16503) [Code](https://github.com/Bomingmiao/NoiseDiffusion)
+We leverage feedback from large vision-language models (LVLMs) to enhance faithfulness of text-to-image synthesis. By introducing a noise diffusion method, we achieve global optimization while preserving distribution consistency, significantly improving the alignment between generated images and input prompts.
+<embed src="../files/noisediffusion.png" width="100" height="50" />
 ### AdvLogo: Adversarial Patch Attack based on Diffusion Models [arXiv](https://arxiv.org/abs/2409.07002) [Code](https://github.com/Bomingmiao/Advlogo) 
 We propose a novel framework of patch attack from semantic perspective. We can utilize diffusion models to generate adversarial logos that can cause the model to fail in recognizing objects.
-<embed src="../files/framework.png" width="100" height="50" />
+<embed src="../files/advlogo.png" width="100" height="50" />
 
 ### An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques [under review](https://openreview.net/forum?id=kxKXcFnF37&referrer=%5Bthe%20profile%20of%20Boming%20Miao%5D(%2Fprofile%3Fid%3D~Boming_Miao1))
 Inspired by the coordinated cognitive processes of rapid-slow pathway interactions in the human brain during visual signal recognition, we propose the Diffusion-Based Discriminative Model Enhancement Framework (DBMEF). This framework seamlessly integrates discriminative and generative models in a training-free manner, leveraging discriminative models for initial predictions and endowing deep neural networks with rethinking capabilities via diffusion models.
 <embed src="../files/motivate.png" width="100" height="50" />
 News
 ================
-- 09/2024: We propose a novel framework of patch attack based on diffusion models, you can view the [article](https://arxiv.org/abs/2409.07002) and the [code](https://github.com/Bomingmiao/Advlogo) is released.
 - 08/2024: I am pleased to join the [Deep Bit Lab](https://mypage.cuhk.edu.cn/academics/lizhen/) at [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and collaborate with [Andi Zhang](https://andi.ac/) at [University of Cambridge](https://www.cam.ac.uk/).
 - 04/2024: We win the second prize in the Graduate Market Research Competition.
 - 10/2023: I will begin as a research assistant in Department of Automation, Tsinghua University.
