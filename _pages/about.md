@@ -25,7 +25,7 @@ Hi, I am Boming Miao! I am currently a graduate student of School of Statistics,
 ## Selected Papaers
 ### Noise Diffusion for Enhancing Faithfulness in Text-to-Image Synthesis [arXiv](https://arxiv.org/abs/2411.16503) [Code](https://github.com/Bomingmiao/NoiseDiffusion)
 We leverage feedback from large vision-language models (LVLMs) to enhance faithfulness of text-to-image synthesis. By introducing a noise diffusion method, we achieve global optimization while preserving distribution consistency, significantly improving the alignment between generated images and input prompts.
-<embed src="../files/noisediffusion.png" width="100" height="50" />
+<embed src="../files/noisediffusion.jpg" width="100" height="50" />
 ### AdvLogo: Adversarial Patch Attack based on Diffusion Models [arXiv](https://arxiv.org/abs/2409.07002) [Code](https://github.com/Bomingmiao/Advlogo) 
 We propose a novel framework of patch attack from semantic perspective. We can utilize diffusion models to generate adversarial logos that can cause the model to fail in recognizing objects.
 <embed src="../files/advlogo.png" width="100" height="50" />
