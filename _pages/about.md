@@ -18,9 +18,6 @@ Hi, I am Boming Miao! I am currently a graduate student of School of Statistics,
 - Statistical learning is also in the list and I would like to explore the probablistic generative models.
 - I am always interested in unkonwn fields and would like to explore more.
 
-## Recent Work
-- **Robust LLMs:** enhancing the robustness of LLMs by exploring both the vulnerability and explainability.
-- **OOD Detection (with [Andi Zhang](https://andi.ac/)):** investigating novel methods for calculating in-distribution and out-of-distribution probabilities based on generative models.
 
 ## Selected Papaers
 ### Noise Diffusion for Enhancing Faithfulness in Text-to-Image Synthesis [arXiv](https://arxiv.org/abs/2411.16503) [Code](https://github.com/Bomingmiao/NoiseDiffusion)
@@ -30,7 +27,7 @@ We leverage feedback from large vision-language models (LVLMs) to enhance faithf
 We propose a novel framework of patch attack from semantic perspective. We can utilize diffusion models to generate adversarial logos that can cause the model to fail in recognizing objects.
 <embed src="../files/advlogo.png" width="100" height="50" />
 
-### An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques [under review](https://openreview.net/forum?id=kxKXcFnF37&referrer=%5Bthe%20profile%20of%20Boming%20Miao%5D(%2Fprofile%3Fid%3D~Boming_Miao1))
+### An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques [arXiv](https://arxiv.org/abs/2412.09063) [Code](https://github.com/ChunXiaostudy/DBMEF)
 Inspired by the coordinated cognitive processes of rapid-slow pathway interactions in the human brain during visual signal recognition, we propose the Diffusion-Based Discriminative Model Enhancement Framework (DBMEF). This framework seamlessly integrates discriminative and generative models in a training-free manner, leveraging discriminative models for initial predictions and endowing deep neural networks with rethinking capabilities via diffusion models.
 <embed src="../files/motivate.png" width="100" height="50" />
 News
