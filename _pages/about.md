@@ -13,7 +13,7 @@ Hi, I am Boming Miao! I am currently a graduate student of School of Statistics,
 
 
 
-======= 
+
 ## News
 - 04/2024: We win the second prize in the Graduate Market Research Competition.
 - 06/2023: I successfully defended my thesis and will graduate from Northeastern University. My thesis is awarded distinction.
