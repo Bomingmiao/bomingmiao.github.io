@@ -12,10 +12,11 @@ Hi, I am Boming Miao! I am currently a graduate student of School of Statistics,
 - B.S. 2019-2023, Department of Mathematics, Northeastern University
 
 ## Publications
-- An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques.
-Chunxiao Li, Xiaoxiao Wang, **Boming Miao**, Chuanlong Xie, Zizhe Wang, Yao Zhu. AAAI 2025.
 - Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis.
 **Boming Miao**, Chunxiao Li, Xiaoxiao Wang, Andi Zhang, Rui Sun, Zizhe Wang, Yao Zhu. CVPR 2025.
+- An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques.
+Chunxiao Li, Xiaoxiao Wang, **Boming Miao**, Chuanlong Xie, Zizhe Wang, Yao Zhu. AAAI 2025.
+
 
 
 ## News
