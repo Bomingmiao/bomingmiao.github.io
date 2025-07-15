@@ -20,6 +20,7 @@ Chunxiao Li, Xiaoxiao Wang, **Boming Miao**, Chuanlong Xie, Zizhe Wang, Yao Zhu.
 
 
 ## News
+- 06/2025: Two papers are accepted by ICCV.
 - 05/2025: I successfully defended my thesis and I am honored to be recognized as an Outstanding Graduate.
 - 02/2025: One paper is accepted by CVPR.
 - 12/2024: One Paper is accepted by AAAI.
