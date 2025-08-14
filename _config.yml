@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Boming Miao"
   pronouns         : "he/him"
-  bio              : "MS Student in Applied Statistics"
-  location         : "Zhuhai, China"
-  employer         : "Statistics @ Beijing Normal University"
+  bio              : "PhD Student in Computer Science"
+  location         : "St. Louis, MO"
+  employer         : "Washu"
   uri              :  #"https://english.bnu.edu.cn/schoolsdepartments/byx/113308.htm"
-  email            : "bomingmiao@gmail.com"
+  email            : "bmiao@wustl.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
