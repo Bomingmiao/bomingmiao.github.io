@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Boming Miao! I am currently a graduate student of School of Statistics, Beijing Normal University.
+Hi, I am Boming Miao! I am currently a PhD student in Computer Science at Washington University in St. Louis.
 ## Education
+- PhD. 2025-present, McKelvey School of Engineering, Washington University in St. Louis
 - M.S. 2023-2025, School of Statistics, Beijing Normal University
 - B.S. 2019-2023, Department of Mathematics, Northeastern University
 
