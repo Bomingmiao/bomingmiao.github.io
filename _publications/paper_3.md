@@ -1,0 +1,11 @@
+---
+title: "Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios"
+collection: publications
+category: conferences
+permalink: /publication/paper_3
+date: 2025-10-19
+venue: 'ICCV'
+paperurl: 'https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Bridging_the_Gap_Between_Ideal_and_Real-world_Evaluation_Benchmarking_AI-Generated_ICCV_2025_paper.pdf'
+authors: 'Chunxiao Li, Xiaoxiao Wang, Meiling Li, Boming Miao, Peng Sun, Yunjian Zhang, Xiangyang Ji, Yao Zhu'
+---
+With the rapid advancement of generative models, highly realistic image synthesis has posed new challenges to digital security and media credibility. Although AI-generated image detection methods have partially addressed these concerns, a substantial research gap remains in evaluating their performance under complex real-world conditions. This paper introduces the Real-World Robustness Dataset (RRDataset) for comprehensive evaluation of detection models across three dimensions: 1) Scenario Generalization-RRDataset encompasses high-quality images from seven major scenarios (War & Conflict, Disasters & Accidents, Political & Social Events, Medical & Public Health, Culture & Religion, Labor & Production, and everyday life), addressing existing dataset gaps from a content perspective. 2) Internet Transmission Robustness-examining detector performance on images that have undergone multiple rounds of sharing across various social media platforms. 3) Re-digitization Robustness-assessing model effectiveness on images altered through four distinct re-digitization methods. We benchmarked 17 detectors and 10 vision-language models (VLMs) on RRDataset and conducted a large-scale human study involving 192 participants to investigate human few-shot learning capabilities in detecting AI-generated images. The benchmarking results reveal the limitations of current AI detection methods under real-world conditions and underscore the importance of drawing on human adaptability to develop more robust detection algorithms. Our dataset is publicly available at: https://zenodo.org/records/14963880.
