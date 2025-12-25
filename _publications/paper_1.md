@@ -8,7 +8,6 @@ date: 2025-06-11
 venue: 'CVPR'
 codeurl: 'https://github.com/Bomingmiao/NoiseDiffusion'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2025/papers/Miao_Noise_Diffusion_for_Enhancing_Semantic_Faithfulness_in_Text-to-Image_Synthesis_CVPR_2025_paper.pdf'
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:-Mc6ioagiMwJ:scholar.google.com/&output=citation&scisdr=Crzk930JEKmU5YuRRv0:ALhkC2QAAAAAaU2XXv3Kr4y15dpzdI8hp_rL-f0&scisig=ALhkC2QAAAAAaU2XXsJjErioHZIqSfHQof5bvZ8&scisf=4&ct=citation&cd=-1'
-citation: '**Boming Miao**, Chunxiao Li, Xiaoxiao Wang, Andi Zhang, Rui Sun, Zizhe Wang, Yao Zhu; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, pp. 23575-23584'
+authors: 'Boming Miao, Chunxiao Li, Xiaoxiao Wang, Andi Zhang, Rui Sun, Zizhe Wang, Yao Zhu; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, pp. 23575-23584'
 ---
 
