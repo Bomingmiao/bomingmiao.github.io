@@ -14,7 +14,6 @@ Education
 * M.S. in Applied Statistics, Beijing Normal University, 2019
 * B.S. in Applied Statistics, Northeastern University, 2023
 
-
   
 Skills
 ======
